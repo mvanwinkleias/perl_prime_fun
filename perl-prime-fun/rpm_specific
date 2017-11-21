@@ -1,0 +1,7 @@
+#Requires: 
+AutoReqProv: no 
+Summary: Perl scripts for having fun with primes
+Group: Generic Group
+License: Generic License
+Vendor: Generic Vendor
+BuildArch: noarch
